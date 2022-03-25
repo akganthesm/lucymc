@@ -22,7 +22,7 @@ psutil
 pykeyboard
 pyromod
 requests
-git+https://github.com/akganthesm/speedtesttt@master
+git+https://github.com/akganthesm/speedtesttt.git
 uvloop
 git+https://github.com/akganthesm/beater@master
 telegraph
