@@ -12,7 +12,6 @@ search-engine-parser
 tgcrypto
 youtube-search-python==1.5.1
 youtube-search
-speedtest-cli
 cryptography
 dnspython
 future
@@ -23,7 +22,7 @@ psutil
 pykeyboard
 pyromod
 requests
-speedtest-cli
+git+https://github.com/akganthesm/speedtesttt@master
 uvloop
 git+https://github.com/akganthesm/beater@master
 telegraph
